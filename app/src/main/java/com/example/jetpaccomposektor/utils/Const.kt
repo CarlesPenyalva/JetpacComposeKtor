@@ -10,5 +10,5 @@ object Const {
     const val KEY_API = "48e347b127724021a97750c110f111e3"
     const val WEB_API = "https://api.rawg.io/api/"
 
-    const val PP = 1
+    const val PP = 100
 }
